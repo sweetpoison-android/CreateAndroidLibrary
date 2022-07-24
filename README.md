@@ -16,5 +16,5 @@ Add it in your root build.gradle at the end of repositories:
   Step 2. Add the dependency
   
   dependencies {
-	        implementation 'com.github.sweetpoison-android:CreateAndroidLibrary:Tag'
+	        implementation 'com.github.sweetpoison-android:CreateAndroidLibrary:1.0.0'
 	}
